@@ -1,0 +1,4 @@
+0 */5 * * * cd /home/faiq/Documents/Kuliah/Sisop/'Praktikum 1'/praktikum-modul-1-f01/task-4/ && ./isabel.sh download_mingyu_image
+0 */10 * * * cd /home/faiq/Documents/Kuliah/Sisop/'Praktikum 1'/praktikum-modul-1-f01/task-4/ && ./isabel.sh create_zip_files
+0 2 * * * cd /home/faiq/Documents/Kuliah/Sisop/'Praktikum 1'/praktikum-modul-1-f01/task-4/ && ./isabel.sh delete_folders_and_zip_files
+0 0 * * * cd /home/faiq/Documents/Kuliah/Sisop/'Praktikum 1'/praktikum-modul-1-f01/task-4/ && ./isabel.sh download_levi_or_eren_image

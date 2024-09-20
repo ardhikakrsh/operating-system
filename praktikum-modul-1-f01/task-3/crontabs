@@ -1,0 +1,7 @@
+<!-- * * * * * \*/home/riyanda/TeknikInformatika/Semester4/Sisop/praktikum-modul-1-f01/task-3/minute_log.sh 2>> error.log -->
+
+<!-- 0 * * * * /home/riyanda/TeknikInformatika/Semester4/Sisop/praktikum-modul-1-f01/task-3/aggregate_minutes_to_hourly_log.sh 2>> error2.log -->
+
+<!-- 0 0 * * * /home/riyanda/TeknikInformatika/Semester4/Sisop/praktikum-modul-1-f01/task-3/bakcup_metrics.sh 2>> error3.log -->
+
+karena auto save jadi dicomment aja

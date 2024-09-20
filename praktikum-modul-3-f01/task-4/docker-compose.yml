@@ -1,0 +1,23 @@
+services:
+  laravel-with-docker:
+    container_name: laravel-with-docker
+    build: .
+    volumes:
+      - ./laravel-onion-template:/var/www/html
+    ports:
+      - 9000:80
+
+  database:
+    image: mysql:latest
+    environment:
+      MYSQL_DATABASE: keyisa
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
+
+  phpmyadmin:
+    image: phpmyadmin:latest
+    ports:
+      - 1000:80
+    environment:
+      - PMA_ARBITRARY=1

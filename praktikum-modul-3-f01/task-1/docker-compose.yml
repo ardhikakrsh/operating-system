@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  tank:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "TANK"]
+
+  assassin:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "ASSASSIN"]
+
+  fighter:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "FIGHTER"]
+
+  mm:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "MM"]
+
+  mage:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "MAGE"]
+
+  support:
+    image: fqlidan/joki-ml-bang:tagname
+    command: ["./ayamgoreng", "SUPPORT"]

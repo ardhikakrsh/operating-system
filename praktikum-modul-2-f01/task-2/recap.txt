@@ -1,0 +1,29 @@
+[2024-04-26 20:12:34]-[bubu] Task 19 completed, download 4 city images with 250x300 resolution
+[2024-04-26 20:12:34]-[bubu] Task 18 completed, download 1 nature images with 250x150 resolution
+[2024-04-26 20:12:34]-[bubu] Task 17 completed, download 1 minimalist images with 150x250 resolution
+[2024-04-26 20:12:34]-[bubu] Task 16 completed, download 3 face images with 250x150 resolution
+[2024-04-26 20:12:34]-[bubu] Task 15 completed, download 4 city images with 200x200 resolution
+[2024-04-26 20:12:34]-[yuan] Task 0 completed, download 1 music images with 300x300 resolution
+[2024-04-26 20:12:34]-[yuan] Task 1 completed, download 1 nature images with 200x150 resolution
+[2024-04-26 20:12:34]-[yuan] Task 2 completed, download 4 night images with 200x150 resolution
+[2024-04-26 20:12:34]-[yuan] Task 3 completed, download 1 fruit images with 200x150 resolution
+[2024-04-26 20:12:34]-[yuan] Task 4 completed, download 3 night images with 300x250 resolution
+[2024-04-26 20:12:34]-[bubu] Task 14 completed, download 4 summer images with 250x200 resolution
+[2024-04-26 20:12:34]-[bubu] Task 13 completed, download 2 face images with 150x200 resolution
+[2024-04-26 20:12:34]-[bubu] Task 12 completed, download 3 minimalist images with 100x250 resolution
+[2024-04-26 20:12:34]-[yuan] Task 5 completed, download 5 music images with 250x150 resolution
+[2024-04-26 20:12:34]-[bubu] Task 11 completed, download 2 fruit images with 150x250 resolution
+[2024-04-26 20:12:34]-[yuan] Task 6 completed, download 5 minimalist images with 300x100 resolution
+[2024-04-26 20:12:34]-[yuan] Task 7 completed, download 5 fruit images with 200x250 resolution
+[2024-04-26 20:12:34]-[yuan] Task 8 completed, download 4 fruit images with 200x300 resolution
+[2024-04-26 20:12:34]-[yuan] Task 9 completed, download 4 summer images with 200x250 resolution
+[2024-04-26 20:12:34]-[bubu] Task 10 completed, download 3 nature images with 300x200 resolution
+city : 8
+nature : 5
+minimalist : 9
+face : 5
+music : 6
+night : 7
+fruit : 12
+summer : 8
+total images: 60

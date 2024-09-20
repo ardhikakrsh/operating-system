@@ -1,0 +1,221 @@
+[24-04-18 02:02:35] Berhasil download file..
+[24-04-18 02:02:35] Berhasil unzip file..
+[24-04-18 02:02:35] Berhasil drop row dengan suhu udara diatas 35 derajat
+[24-04-18 02:02:36] Berhasil melakukan group data..
+[24-04-18 11:27:05] Berhasil download file..
+[24-04-18 11:27:05] Berhasil unzip file..
+[24-04-18 11:27:05] Berhasil drop row dengan suhu udara diatas 35 derajat
+[24-04-18 11:27:05] Berhasil melakukan group data..
+[24-04-18 12:12:45] Berhasil download file..
+[24-04-18 12:12:46] Berhasil unzip file..
+[24-04-18 12:26:38] Berhasil download file..
+[24-04-18 12:26:38] Berhasil unzip file..
+[24-04-18 12:47:56] Berhasil download file..
+[24-04-18 12:47:56] Berhasil unzip file..
+[24-04-18 12:53:51] Berhasil download file..
+[24-04-18 12:53:51] Berhasil unzip file..
+[24-04-18 12:55:33] Berhasil download file..
+[24-04-18 12:55:33] Berhasil unzip file..
+[24-04-18 12:57:44] Berhasil download file..
+[24-04-18 12:57:44] Berhasil unzip file..
+[24-04-18 12:59:54] Berhasil download file..
+[24-04-18 12:59:54] Berhasil unzip file..
+[24-04-18 13:01:08] Berhasil download file..
+[24-04-18 13:01:08] Berhasil unzip file..
+[24-04-18 13:02:32] Berhasil download file..
+[24-04-18 13:02:32] Berhasil unzip file..
+[24-04-18 13:07:12] Berhasil download file..
+[24-04-18 13:07:12] Berhasil unzip file..
+[24-04-18 13:07:35] Berhasil download file..
+[24-04-18 13:07:35] Berhasil unzip file..
+[24-04-18 13:14:24] Berhasil download file..
+[24-04-18 13:14:24] Berhasil unzip file..
+[24-04-18 13:17:55] Berhasil download file..
+[24-04-18 13:17:55] Berhasil unzip file..
+[24-04-18 13:22:46] Berhasil download file..
+[24-04-18 13:22:46] Berhasil unzip file..
+[24-04-18 13:29:21] Berhasil download file..
+[24-04-18 13:29:21] Berhasil unzip file..
+[24-04-18 13:30:05] Berhasil download file..
+[24-04-18 13:30:05] Berhasil unzip file..
+[24-04-18 13:31:52] Berhasil download file..
+[24-04-18 13:31:52] Berhasil unzip file..
+[24-04-18 13:31:52] Berhasil drop row dengan suhu udara diatas 35 derajat
+[24-04-18 13:31:52] Berhasil melakukan group data..
+[24-04-18 14:03:49] Berhasil download file..
+[24-04-18 14:03:49] Berhasil unzip file..
+[24-04-18 14:03:49] Berhasil drop row dengan suhu udara diatas 35 derajat
+[24-04-18 14:03:50] Berhasil melakukan group data..
+[24-04-18 14:05:40] Berhasil download file..
+[24-04-18 14:05:40] Berhasil unzip file..
+[24-04-18 14:05:40] Berhasil drop row dengan suhu udara diatas 35 derajat
+[24-04-18 14:05:40] Berhasil melakukan group data..
+[24-04-18 14:17:58] Successfully download file..
+[24-04-18 14:17:58] Berhasil unzip file..
+[24-04-18 14:17:58] Successfully drop row with suhu udara above 35 degree
+[24-04-18 14:17:59] Successfully data grouping..
+[24-04-18 14:37:28] Successfully download file..
+[24-04-18 14:37:28] Successfully unzip file..
+[24-04-18 14:37:29] Successfully drop row with suhu udara above 35 degree
+[24-04-18 14:37:29] Successfully data grouping..
+[24-04-18 14:40:29] Successfully download file..
+[24-04-18 14:40:29] Successfully unzip file..
+[24-04-18 14:40:30] Successfully drop row with suhu udara above 35 degree
+[24-04-18 14:40:30] Successfully data grouping..
+[2024-04-18 14:42:09] Berhasil download file...
+[2024-04-18 14:42:09] Berhasil unzip file...
+[2024-04-18 14:42:10] Berhasil drop row dengan suhu di atas 35 derajat...
+[2024-04-18 14:42:14] Berhasil melakukan group data..
+[24-04-18 14:43:15] Successfully download file..
+[24-04-18 14:43:15] Successfully unzip file..
+[24-04-18 14:43:16] Successfully drop row with suhu udara above 35 degree
+[24-04-18 14:43:16] Successfully data grouping..
+[24-04-18 15:12:48] Successfully download file..
+[24-04-18 15:12:48] Successfully unzip file..
+[24-04-18 15:12:49] Successfully drop row with air temparature more than 35 degree
+[24-04-18 15:12:50] Successfully data grouping..
+[24-04-18 15:14:11] Successfully download file..
+[24-04-18 15:14:12] Successfully unzip file..
+[24-04-18 15:14:13] Successfully drop row with air temparature more than 35 degree
+[24-04-18 15:16:39] Successfully download file..
+[24-04-18 15:16:39] Successfully unzip file..
+[24-04-18 15:16:40] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 15:17:17] Successfully download file..
+[24-04-18 15:17:17] Successfully unzip file..
+[24-04-18 15:17:18] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 15:17:19] Successfully data grouping..
+[24-04-18 15:25:22] Successfully download file..
+[24-04-18 15:25:22] Successfully unzip file..
+[24-04-18 15:25:23] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 15:25:24] Successfully data grouping..
+[24-04-18 16:02:16] Successfully download file..
+[24-04-18 16:02:16] Successfully unzip file..
+[24-04-18 16:02:17] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 16:02:18] Successfully data grouping..
+[24-04-18 16:10:49] Successfully download file..
+[24-04-18 16:10:49] Successfully unzip file..
+[24-04-18 16:10:50] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 16:10:51] Successfully data grouping..
+[24-04-18 22:56:20] Successfully download file..
+[24-04-18 22:56:20] Successfully unzip file..
+[24-04-18 22:56:21] Successfully drop row with air temparature more than 35 degree..
+[24-04-18 22:56:22] Successfully data grouping..
+[24-04-19 17:45:02] Successfully download file..
+[24-04-19 17:45:02] Successfully unzip file..
+[24-04-19 17:49:10] Successfully download file..
+[24-04-19 17:49:10] Successfully unzip file..
+[24-04-19 18:33:13] Successfully download file..
+[24-04-19 18:33:13] Successfully unzip file..
+[24-04-19 18:37:09] Successfully download file..
+[24-04-19 18:37:10] Successfully unzip file..
+[24-04-19 20:05:26] Successfully download file..
+[24-04-19 20:05:26] Successfully unzip file..
+[24-04-19 20:07:06] Successfully download file..
+[24-04-19 20:07:06] Successfully unzip file..
+[24-04-19 20:07:06] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:07:06] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:10:29] Successfully download file..
+[24-04-19 20:10:29] Successfully unzip file..
+[24-04-19 20:10:29] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:10:29] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:16:01] Successfully download file..
+[24-04-19 20:16:01] Successfully unzip file..
+[24-04-19 20:16:01] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:16:01] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:17:07] Successfully download file..
+[24-04-19 20:17:07] Successfully unzip file..
+[24-04-19 20:17:07] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:17:07] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:17:08] Successfully data grouping..
+[24-04-19 20:30:25] Successfully download file..
+[24-04-19 20:30:25] Successfully unzip file..
+[24-04-19 20:30:25] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:30:25] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:30:26] Successfully data grouping..
+[24-04-19 20:31:11] Successfully download file..
+[24-04-19 20:31:11] Successfully unzip file..
+[24-04-19 20:31:11] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:11] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:31:12] Successfully data grouping..
+[24-04-19 20:31:48] Successfully download file..
+[24-04-19 20:31:48] Successfully unzip file..
+[24-04-19 20:31:49] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 111 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 101 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 45 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 87 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 98 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 56 degree..
+[24-04-19 20:31:49] Successfully drop row with air temperature 65 degree..
+[24-04-19 20:31:49] Successfully data grouping..
