@@ -2,7 +2,7 @@
 
 |    NRP     |          Name           |
 | :--------: | :---------------------: |
-| 5025221100 | Ardhika Krishna Wijaya |
+| 5025221006 | Ardhika Krishna Wijaya |
 | 5025221100 | Riyanda Cavin Sinambela  |
 | 5025221294 |   Faiq Lidan Baihaqi    |
 
